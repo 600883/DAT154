@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Torsdag 0902", "Torsdag 0902\Torsdag 0902.vcxproj", "{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|arm64.ActiveCfg = Debug|arm64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|arm64.Build.0 = Debug|arm64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|x64.ActiveCfg = Debug|x64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|x64.Build.0 = Debug|x64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|x86.ActiveCfg = Debug|Win32
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Debug|x86.Build.0 = Debug|Win32
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|arm64.ActiveCfg = Release|arm64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|arm64.Build.0 = Release|arm64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|x64.ActiveCfg = Release|x64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|x64.Build.0 = Release|x64
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|x86.ActiveCfg = Release|Win32
+		{833D6E13-EB06-4FD6-96A4-AD6359ECDA30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F710E7-902B-4B44-9BF9-1D8A6057CD8F}
+	EndGlobalSection
+EndGlobal
